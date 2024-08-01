@@ -54,7 +54,7 @@ sections:
         textAlign: justify
   - type: FeaturedItemsSection
     title:
-      text: OUR MEMBERS
+      text: OUR
       color: text-dark
       styles:
         self:
