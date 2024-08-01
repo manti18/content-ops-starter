@@ -65,7 +65,7 @@ sections:
     items:
       - type: FeaturedItem
         title: CEO
-        subtitle: Numbers Done
+        subtitle: Komakech Robert
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
