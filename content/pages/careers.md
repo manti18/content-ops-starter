@@ -104,10 +104,8 @@ sections:
         type: FeaturedItem
       - title: Farm sales manager
         subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          He/she will be incharge of marketing sales for Amekodi Mixed Farm
         colors: bg-neutral-fg-dark
         styles:
           self:
