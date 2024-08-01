@@ -61,7 +61,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Staff
     items:
       - type: FeaturedItem
         title: CEO
