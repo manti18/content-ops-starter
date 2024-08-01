@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: Amekodi Unity
     text: >+
 
       In today’s fast-paced, interconnected world, the ability to work closely
