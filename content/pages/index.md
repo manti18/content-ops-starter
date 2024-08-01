@@ -7,6 +7,9 @@ sections:
       text: AMEKODI MIXED FARM
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 500
     subtitle: HARVESTING TOMMOROW
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
