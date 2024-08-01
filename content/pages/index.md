@@ -55,7 +55,7 @@ sections:
         textAlign: left
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: OUR MEMBERS
       color: text-dark
       styles:
         self:
