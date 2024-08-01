@@ -11,10 +11,7 @@ sections:
         self:
           fontWeight: 500
     subtitle: HARVESTING TOMMOROW
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "AMEKODI MIXED FARM is a formally registered farm since 13th day of July, 2022 . It’s number is 80020003724193 in the index of registration. It has been in operation since December 2021.\n\nLOCATION:\_The Farm is situated in Amuru District, Northern Uganda, at two locations, Lamogi Sub County, Akurukwe (Vegetables-Tomatoes, Onions and Pumpkin) and Pabo Sub County (Cassava and Sunflower) and Pogo Sub County Maize, Beans and Eucaplytus).\n\n"
     actions:
       - label: Get started
         altText: ''
