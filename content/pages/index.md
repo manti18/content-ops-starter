@@ -51,7 +51,7 @@ sections:
         fontWeight: 400
         textAlign: left
       text:
-        textAlign: justify
+        textAlign: left
   - type: FeaturedItemsSection
     title:
       text: OUR MEMBERS
