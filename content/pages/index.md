@@ -54,7 +54,7 @@ sections:
         textAlign: justify
   - type: FeaturedItemsSection
     title:
-      text: OUR
+      text: OUR vision
       color: text-dark
       styles:
         self:
