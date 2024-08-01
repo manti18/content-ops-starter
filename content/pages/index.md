@@ -94,10 +94,8 @@ sections:
               borderRadius: x-large
       - title: ''
         subtitle: Nancy Lakica Oryem
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Nancy is the farm supervisor
         image:
           url: /images/nancy.jpg
           altText: Featured icon two
